@@ -227,6 +227,7 @@
     .right-h{
         position: relative;
         background: none;
+        
     }
 
     .heart-rate{
@@ -252,8 +253,8 @@
 
     .hero-image{
         position: relative;
-        width: 15rem;
-        left: 7rem;
+        width: 25rem;
+        left: -2rem;
         top: 4.5rem;
         align-self: center;
     }
